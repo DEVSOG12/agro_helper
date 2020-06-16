@@ -1,4 +1,4 @@
-package techbuzs.com.agro_helper
+package com.techbuzs.agrohelper
 
 import io.flutter.embedding.android.FlutterActivity
 

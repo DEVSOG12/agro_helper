@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614481254325",
+    "firebase_url": "https://agro-helper.firebaseio.com",
+    "project_id": "agro-helper",
+    "storage_bucket": "agro-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614481254325:android:89ed73c81fb7bb38322bfc",
+        "android_client_info": {
+          "package_name": "com.techbuzs.agrohelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614481254325-knla0jfne1jp8m648ggprrglqqp71ok6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT08VcvUw5ohPiWlCEPjH-1o8CKprgUdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614481254325-knla0jfne1jp8m648ggprrglqqp71ok6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
